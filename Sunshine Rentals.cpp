@@ -1,12 +1,7 @@
 										
 										
 
-											/*	Sunshine Car Rentals
-											
-												------1M-----
-												Asfandyar-650
-												Mehwish Malik-645
-												Kaneez Fatima-642			*/
+											/*	Sunshine Car Rentals   */
 											
 
 #include<iostream>
