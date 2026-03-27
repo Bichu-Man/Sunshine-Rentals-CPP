@@ -1,4 +1,4 @@
-SUNSHINE RENTALS (CLI)
+SUNSHINE RENTALS: sha256:9aa8a3fcdf602ddd31c1eab38af23d2db4632fc339ace40d66d6c715aaf85687
 A first-semester terminal-based car rental management system. This project was developed over a 16-day cycle and focuses on the implementation of logic and data persistence using standard C++ libraries.
 
 Technical Implementation
